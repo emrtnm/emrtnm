@@ -50,9 +50,9 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emrtnm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=emrtnm&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emrtnm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emrtnm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emrtnm&theme=dark&hide=javascript,html&include_all_commits=true&count_private=true)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=emrtnm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
