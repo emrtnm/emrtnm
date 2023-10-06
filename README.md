@@ -58,12 +58,10 @@
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=emrtnm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=emrtnm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitor-badge.laobi.icu/badge?page_id=emrtnm.emrtnm)](#)
