@@ -1,4 +1,4 @@
-## Software Developer & SDET 👋 Emrullah Tanıma
+## Software Development Engineer in Test 👋 Emrullah Tanıma
 
 #### ✅ Links:
 [![WebSite](https://img.shields.io/badge/WebSite-%23646CFF.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.emrullahtanima.com)
