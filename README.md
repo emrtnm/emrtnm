@@ -3,7 +3,6 @@
 #### ✅ Links:
 [![WebSite](https://img.shields.io/badge/WebSite-%23646CFF.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.emrullahtanima.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/emrtnm)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/emrullahtanima)
 
 ### 💻 Tech Stack:
 ![Html5](https://img.shields.io/badge/html5-%23FF9900.svg?style=for-the-badge&logo=html5&logoColor=white)
