@@ -46,11 +46,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emrtnm&theme=dark&hide=javascript,html&include_all_commits=true&count_private=true)
-
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emrtnm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=emrtnm&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitor-badge.laobi.icu/badge?page_id=emrtnm.emrtnm)](#)
